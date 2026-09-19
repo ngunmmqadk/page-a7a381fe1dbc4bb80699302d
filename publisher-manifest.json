@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "b252563c0266f8a529c5497c",
+  "owner": "ngunmmqadk",
+  "repo": "page-a7a381fe1dbc4bb80699302d",
+  "title": "免费订阅节点",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a7a381fe1dbc4bb80699302d",
+      "a": "Dogess",
+      "b": "免费订阅节点",
+      "entity": "Dogess",
+      "brand": "免费订阅节点",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "686fa50c9274df12028500b65ea302f27ffc80245b6f61beb5e2759d56fc6995",
+      "content": {
+        "primary_entity": "Dogess",
+        "keyword1": "Dogess",
+        "keyword2": "免费订阅节点",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，导入 Dogess 订阅后即可连接。",
+          "AI_CLIENTS_TITLE": "选择适合设备的客户端",
+          "AI_CLOSING_TEXT": "选好套餐、配好客户端，就能让 Dogess 稳定在线。",
+          "AI_CLOSING_TITLE": "让 Dogess 陪你稳定在线",
+          "AI_DESCRIPTION": "，Dogess 面向海外加速场景，提供基础版、旗舰版与团队版三档订阅。基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB，支持 5 台设备并配备 IPLC 专线；团队版每月 1000GB，可供 20 台设备同时在线。按年付可节省两个月费用，套餐与设备数量可直接对照选择。",
+          "AI_FEATURES_INTRO": "围绕套餐档位、设备数量与订阅周期做选择，重点关注流量与线路。",
+          "AI_FEATURES_TITLE": "订阅前先看清这几点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，先按常用设备数量筛档。",
+          "AI_FEATURE_TITLE_1": "设备数量决定档位",
+          "AI_FEATURE_TEXT_2": "100GB 适合轻度浏览，300GB 兼顾流媒体，1000GB 适合多人共享。",
+          "AI_FEATURE_TITLE_2": "流量按使用强度选",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付更省，旗舰版含 IPLC 专线，适合游戏与低延迟需求。",
+          "AI_FEATURE_TITLE_3": "周期与线路一起看",
+          "AI_GUIDE_INTRO": "从确定套餐到完成订阅配置，按步骤依次操作即可。",
+          "AI_GUIDE_TITLE": "三步完成订阅使用",
+          "AI_HERO_INTRO": "Dogess 提供面向海外访问的网络加速订阅，覆盖基础版、旗舰版与团队版，按流量、设备数量与线路区分。选择套餐后，在对应设备客户端导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "Dogess 海外加速订阅",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "旗舰版配 IPLC 专线",
+          "AI_HIGHLIGHT_3": "支持多设备同时在线",
+          "AI_PLANS_INTRO": "基础版每月 100GB 支持 3 台设备，旗舰版每月 300GB 支持 5 台设备，团队版每月 1000GB 支持 20 台设备，年付更划算。",
+          "AI_PLANS_TITLE": "对比套餐找到合适档位",
+          "AI_STEP_TEXT_1": "按流量、在线设备数量与线路需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_1": "确定套餐",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量额度、设备上限与线路说明，确认能满足日常使用。",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TEXT_3": "在手机或电脑客户端中添加 Dogess 订阅信息，按客户端文档完成导入并连接。",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "Dogess 加速订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何导入订阅链接？",
+          "AI_FAQ_ANSWER_1": "在对应客户端中找到订阅或配置导入入口，粘贴购买后生成的订阅地址，保存后更新节点列表。不同客户端按钮位置略有差异，可参考所装客户端的说明文档。",
+          "AI_FAQ_QUESTION_2": "三档套餐的设备数怎么算？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版5台，团队版20台。设备数按同时连接计算，手机、电脑与平板各占一个名额。路由器全局代理下所有连入设备会共用同一额度。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月续费，灵活性更高；年付一次性支付，基础版¥150/年、旗舰版¥350/年、团队版¥850/年，折算月均成本更低，适合确定长期使用的用户。",
+          "AI_FAQ_QUESTION_4": "旗舰版的IPLC专线适合做什么？",
+          "AI_FAQ_ANSWER_4": "IPLC专线针对游戏加速优化，延迟与抖动表现更稳定，适合实时对战与高清流媒体。团队版则提供VIP高带宽节点与企业定制路由，适合多人协作场景。",
+          "AI_FAQ_QUESTION_5": "可以中途更换套餐吗？",
+          "AI_FAQ_ANSWER_5": "可以按实际使用情况调整档位。设备增加或流量不足时，从基础版升级到旗舰版或团队版；升级后按新套餐的设备数与流量额度使用，具体生效方式以购买时页面说明为准。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "43da2a01c33b6aa7fb63598aefc0e0c62f20a215dab7f9862ad881e5e02a59e8",
+    "sitemap.xml": "b0c74498cb482c1ae60ed0cdba7d8de22ff58355824ddfa71b4bbda33930efff",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "b66f55dfe4eed69908ee8e275bc99d80340947427b570a5186cd1d33a11b454a"
+}
